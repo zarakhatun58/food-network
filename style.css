@@ -19,7 +19,7 @@ body{ font-family: Roboto, Oxygen,
 }
 
 h1{ font-size: 40px;
-        color: rgb(26, 28, 29);
+        color: rgb(41, 48, 51);
     
 
 }
@@ -48,3 +48,74 @@ h1{ font-size: 40px;
 
 
 }
+            
+
+
+.h2-recipy{text-align: center;
+            color: gray;
+            font-weight: bold;
+            font-family: 'Roboto', sans-serif; 
+            margin-left: 60px;
+
+}
+
+.recipy-paragraph{text-align: center;
+                 height: 80px;
+                 width:600px;
+                 margin-left: 350px;
+                 color: gray;
+                 font-family: 'Roboto', sans-serif; 
+
+
+}
+.recipy-division{ display: inline-flex;
+
+
+}
+
+.image{ float: left;
+            display: inline;
+            width: 95%;
+
+}
+
+.box{box-shadow: 10px 10px 80px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+    
+
+
+}
+
+.end-paragraph{ color: gray;
+                font-family: 'Roboto', sans-serif;;
+
+
+}
+h3{font-family: 'Roboto', sans-serif;
+    color: gray;
+    font-weight: 700;
+
+}
+
+.fan-following{box-shadow: 10px 10px 20px gray;
+        width: 85%;
+        margin-left: 5%;
+        margin-right: 2%;
+        padding-left: 10px;
+        border-radius: 10px;
+
+}
+,.last-div{ display: flex;
+             width: 30%;
+
+
+}
+
+
+
+
+
