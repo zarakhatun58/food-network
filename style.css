@@ -1,0 +1,50 @@
+body{ font-family: Roboto, Oxygen,
+        margin: 0px;
+
+}
+
+.orange{ color: orangered;
+
+}
+.section1{ display: flex;
+            margin-bottom: 80px;
+            
+
+}
+
+
+.half-div{ width: 80%;
+            padding: 2%;
+
+}
+
+h1{ font-size: 40px;
+        color: rgb(26, 28, 29);
+    
+
+}
+.para{ font-family: 'Roboto', sans-serif;
+            color: rgb(60, 61, 63);
+}
+
+.half-div img{ width: 60%;
+
+}
+
+.link-button{ text-decoration: none;
+                background-color: orangered;
+                background-image: linear-gradient(orange,tomato);
+                padding: 13px  30px;
+                border-radius: 25px ;
+                color: white;
+                font-weight: bold;
+
+}
+#second-img{ width: 40%;
+
+}
+
+.top-banner{background-image: url(images/shapes/7.png);
+
+
+}
