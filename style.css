@@ -125,7 +125,7 @@ h3{font-family: 'Roboto', sans-serif;
 
 }
 
-li{ float: left;
+.li{ float: left;
          margin: 10%;
          margin-top: 5%;
          font-family: 'Roboto', sans-serif; 
@@ -139,6 +139,38 @@ li{ float: left;
                  float: left;
                  margin-left: 57px;
                  text-align: center;
+                
+
+}
+
+.header-section{ background-color: black;
+                 color: white;
+                 width: auto;
+                 height: 80px;
+
+}
+
+
+.header-img{ height: 80px;
+                width: 80px;
+                float: left;
+
+}
+
+.header-unorder{ display: inline;
+                list-style-type: none;
+
+                
+
+
+}
+
+.header-list{ display: inline;
+                margin-left: 5px;
+                color: gray;
+                font-family:'Roboto', sans-serif; 
+                margin: 20px;
+                padding-bottom: 10px;
                 
 
 }
