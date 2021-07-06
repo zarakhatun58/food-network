@@ -91,7 +91,7 @@ h1{ font-size: 40px;
 }
 
 .end-paragraph{ color: gray;
-                font-family: 'Roboto', sans-serif;;
+                font-family: 'Roboto', sans-serif;
 
 
 }
@@ -101,21 +101,36 @@ h3{font-family: 'Roboto', sans-serif;
 
 }
 
-.fan-following{box-shadow: 10px 10px 20px gray;
-        width: 85%;
+.fan-following{box-shadow: 10px 10px 30px gray;
+        width: 1200px;
+        height:250px;
+        
+        margin-top: 1%;
         margin-left: 5%;
         margin-right: 2%;
         padding-left: 10px;
         border-radius: 10px;
 
 }
-,.last-div{ display: flex;
+.last-div{ display: flex;
              width: 30%;
 
 
 }
 
+.unorder-list{ display: inline;
+                list-style-type: none;
+                
 
 
+}
+
+li{ float: left;
+         margin: 10%;
+         margin-top: 5%;
+         font-family: 'Roboto', sans-serif; 
+
+
+}
 
 
