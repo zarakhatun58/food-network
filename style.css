@@ -133,4 +133,12 @@ li{ float: left;
 
 }
 
+.footer-section{ background-color: black;
+                 width: 1215px;
+                 height: 200px;
+                 float: left;
+                 margin-left: 57px;
+                 text-align: center;
+                
 
+}
